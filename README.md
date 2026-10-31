@@ -74,7 +74,7 @@ The global cloud-based data management services market is estimated at **$43.8 b
 
 ## 🌟 Open-Source GitHub Projects
 
-| 📦 Project | ⭐ Stars | 📜 License | 🛠️ Tech Stack | 🚀 Deployment | 🎯 Description & Focus |
+| 📦 Project | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack | 🚀 Deployment | 🎯 Description & Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Supabase](https://github.com/supabase/supabase)** | [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | Apache-2.0 | TypeScript, Elixir, Go | Docker, K8s, Self-hosted | **Open-source Firebase alternative & PostgreSQL platform.** Features Supabase Studio web dashboard with visual table editors, SQL query runner, RLS security builder, database migrations, and real-time triggers. |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Apache-2.0 | Python, TypeScript, React | Docker, Helm, Pip | **Modern enterprise business intelligence, SQL workspace, and data exploration platform.** Connects to 40+ SQL databases and engines (Presto, Trino, Snowflake, ClickHouse, Postgres) with a rich SQL Lab web IDE, metadata browser, and interactive dashboard creator. |
